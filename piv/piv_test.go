@@ -24,7 +24,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ericchiang/piv-go/internal/pivtest"
+	"piv-go/internal/pivtest"
 )
 
 func testGetVersion(t *testing.T, h *scHandle) {

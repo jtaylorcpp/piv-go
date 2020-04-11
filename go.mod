@@ -1,3 +1,4 @@
-module github.com/ericchiang/piv-go
+module piv-go
 
 go 1.13
+
