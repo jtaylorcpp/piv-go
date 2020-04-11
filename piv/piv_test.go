@@ -24,7 +24,7 @@ import (
 	"strings"
 	"testing"
 
-	"piv-go/internal/pivtest"
+	"github.com/jtaylorcpp/piv-go/internal/pivtest"
 )
 
 func testGetVersion(t *testing.T, h *scHandle) {
